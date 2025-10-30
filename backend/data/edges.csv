@@ -1,0 +1,31 @@
+src_name,dst_name,weight
+Madrid,Barcelona,620.5
+Madrid,Valencia,350.8
+Madrid,Sevilla,530.2
+Madrid,Bilbao,395.1
+Madrid,Zaragoza,315.7
+Barcelona,Valencia,350.3
+Barcelona,Zaragoza,305.2
+Barcelona,Palma,210.8
+Valencia,Alicante,165.4
+Valencia,Murcia,240.6
+Sevilla,Córdoba,140.2
+Sevilla,Málaga,210.7
+Sevilla,Granada,250.3
+Bilbao,Santander,105.8
+Bilbao,Vitoria,65.2
+Zaragoza,Valladolid,285.3
+Málaga,Granada,125.4
+Murcia,Alicante,80.5
+Palma,Barcelona,210.8
+Las Palmas,Santa Cruz,210.5
+Valladolid,Salamanca,115.7
+Córdoba,Jaén,105.3
+Vigo,Santiago,75.2
+Gijón,Oviedo,30.5
+Santander,Burgos,155.8
+Madrid,Valladolid,195.4
+Barcelona,Girona,100.2
+Valencia,Castellón,75.3
+Sevilla,Huelva,95.6
+Bilbao,San Sebastián,100.8
